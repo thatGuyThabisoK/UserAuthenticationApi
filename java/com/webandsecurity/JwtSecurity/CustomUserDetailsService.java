@@ -1,4 +1,4 @@
-package com.webandsecurity.StandardBank;
+package com.webandsecurity.JwtSecurity;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.core.userdetails.User;

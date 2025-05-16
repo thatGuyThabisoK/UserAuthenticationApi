@@ -1,4 +1,4 @@
-package com.webandsecurity.StandardBank;
+package com.webandsecurity.JwtSecurity;
 
 public class User {
 	String username ,password;

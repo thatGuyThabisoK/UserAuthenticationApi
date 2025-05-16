@@ -1,4 +1,4 @@
-package com.webandsecurity.StandardBank;
+package com.webandsecurity.JwtSecurity;
 
 import java.io.BufferedReader;
 import java.io.FileReader;
